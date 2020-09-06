@@ -20,7 +20,7 @@ function App() {
 
       <Menu/>
       
-
+       <Route exact   path='/' component ={Home} />
        <Route exact   path='/home/' component ={Home} />
        <Route exact  path='/FAQ/' component ={FAQ} />
        <Route exact  path='/pack/' component ={Pack} />
