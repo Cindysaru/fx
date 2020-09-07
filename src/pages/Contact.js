@@ -54,16 +54,16 @@ import React from 'react';
 
         
         <ul className="social-media-list">
-          <li><a href="#" target="_blank" className="contact-icon">
+          <li><a href="/#" target="_blank" className="contact-icon">
             <i className="fa fa-github" aria-hidden="true"></i></a>
           </li>
-          <li><a href="#" target="_blank" className="contact-icon">
+          <li><a href="/#" target="_blank" className="contact-icon">
             <i className="fa fa-twitter" aria-hidden="true"></i></a>
           </li>
-          <li><a href="#" target="_blank" className="contact-icon">
+          <li><a href="/#" target="_blank" className="contact-icon">
             <i className="fa fa-instagram" aria-hidden="true"></i></a>
           </li>
-          <li><a href="#" target="_blank" className="contact-icon">
+          <li><a href="/#" target="_blank" className="contact-icon">
             <i className="fa fa-codepen" aria-hidden="true"></i></a>
           </li>
         </ul>
