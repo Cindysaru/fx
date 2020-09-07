@@ -64,7 +64,7 @@ import React from 'react';
             <i className="fa fa-instagram" aria-hidden="true"></i></a>
           </li>
           <li><a href="/#" target="_blank" className="contact-icon">
-            <i className="fa fa-codepen" aria-hidden="true"></i></a>
+            <i className="fgit a fa-codepen" aria-hidden="true"></i></a>
           </li>
         </ul>
       
